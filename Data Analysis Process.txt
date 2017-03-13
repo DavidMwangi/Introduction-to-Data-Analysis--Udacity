@@ -6,6 +6,11 @@
 2. Data Wrangling
 
 	Data Acqusition
+		Downloading files
+		Accessing an API
+		Scrapping a web page
+		Combine data from different sources
+		
 	Data Cleaning
 
 3. Data Exploration
